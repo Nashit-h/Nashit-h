@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Nashit Hayyat 👋
 
-<!--
-**Nashit-h/Nashit-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ About Me
 
-Here are some ideas to get you started:
+Security Expert at **BugQore**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in:
+- Web Application Security
+- API Security
+- Penetration Testing
+- Vulnerability Assessment
+- Bug Bounty Hunting
+- Secure Development Practices
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+- Bash
+- SQL
+
+**Security**
+- Burp Suite
+- OWASP ZAP
+- Nmap
+- Metasploit
+- Wireshark
+- Linux
+
+---
+
+## 🌱 Currently Learning
+
+- Cloud Security
+- Kubernetes Security
+- Advanced Red Team Operations
+
+---
+
+## 📌 Interests
+
+- Offensive Security
+- Application Security
+- Malware Analysis
+- Threat Hunting
+- Open Source Security
+
+---
+
+> "Security is not a product, but a process."
